@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "ロクデナシ",
+  "base_artist": "Watson",
+  "createdAt": "2026-02-15T08:18:59.557324Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ロクデナシ",
+      "artist": "THE BLUE HEARTS",
+      "has_synced": false,
+      "path": "select/01_ロクデナシ_THE_BLUE_HEARTS.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ロクデナシ",
+      "artist": "THE BLUE HEARTS",
+      "has_synced": true,
+      "path": "select/02_ロクデナシ_THE_BLUE_HEARTS.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "夜明けと蛍(ロクデナシ cover.)",
+      "artist": "ロクデナシ",
+      "has_synced": true,
+      "path": "select/03_夜明けと蛍(ロクデナシ_cover.)_ロクデナシ.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Rokudenashi One (ロクデナシ)",
+      "artist": "The Blue Hearts",
+      "has_synced": false,
+      "path": "select/04_Rokudenashi_One_(ロクデナシ)_The_Blue_Hearts.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ロクデナシ",
+      "artist": "Watson",
+      "has_synced": false,
+      "path": "select/pl_01_ロクデナシ_Watson.txt"
+    }
+  ]
+}
